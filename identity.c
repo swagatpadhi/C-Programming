@@ -6,7 +6,9 @@
 #include<stdio.h>
 int main(){
 printf("hello Swagat \n");
-int age = 19;
+int age ;
+printf("enter your age ");
+scanf("%d", &age);
 printf("your age is %d \n",age);
 char letter='S';
 printf("your name starts with %c \n",letter);
