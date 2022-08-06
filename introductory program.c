@@ -4,15 +4,15 @@
 // print welcome to programming
 //happy programming
 #include<stdio.h>
-int main(){
-printf("hello Swagat \n");
-int age ;
-printf("enter your age ");
-scanf("%d", &age);
-printf("your age is %d \n",age);
-char letter='S';
-printf("your name starts with %c \n",letter);
-printf("welcome to programming \n");
-printf("happy programming \n");
-return 0;
+int main() {
+	printf("hello Swagat \n");
+	int age;
+	printf("enter your age ");
+	scanf("%d", &age);
+	printf("your age is %d \n", age);
+	char letter = 'S';
+	printf("your name starts with %c \n", letter);
+	printf("welcome to programming \n");
+	printf("happy programming \n");
+	return 0;
 }

@@ -1,12 +1,12 @@
 #include<stdio.h>
 int main() {
-	printf("hello print any number :");
+	printf("enter any number: ");
 	int number;
-	int factorial = 1;
 	scanf("%d", &number);
+	int sum = 0;
 	for (int i = 1; i <= number; i++) {
-		factorial = factorial * i;
+		sum = sum + i;
 	}
-	printf("%d", factorial);
+	printf("%d", sum);
 	return 0;
 }
