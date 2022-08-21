@@ -1,0 +1,214 @@
+
+1 C Program to Add Two Integers - Done
+
+2 C Program to Multiply Two Floating-Point Numbers - Done
+
+3 C Program to Find ASCII Value of a Character - done
+
+4 C Program to Compute Quotient and Remainder - done 
+
+5 C Program to Find the Size of int, float, double and char - done 
+
+
+6 C Program to Swap Two Numbers- done 
+
+
+7C Program to Check Whether a Number is Even or Odd
+
+8C Program to Check Whether a Character is a Vowel or Consonant
+
+9 C Program to Find the Largest Number Among Three Numbers
+
+10 C Program to Find the Roots of a Quadratic Equation
+
+11 C Program to Check Leap Year
+
+12 C Program to Check Whether a Number is Positive or Negative
+
+13 C Program to Check Whether a Character is an Alphabet or not
+
+14 C Program to Calculate the Sum of Natural Numbers
+
+15 C Program to Find Factorial of a Number
+
+16 C Program to Generate Multiplication Table
+
+17 C Program to Display Fibonacci Sequence
+
+18 C Program to Find GCD of two Numbers
+
+19C Program to Find LCM of two Numbers
+
+20C Program to Display Characters from A to Z Using Loop
+
+21C Program to Count Number of Digits in an Integer
+
+22 C Program to Reverse a Number
+
+23 C Program to Calculate the Power of a Number
+
+24 C Program to Check Whether a Number is Palindrome or Not
+
+25 C Program to Check Whether a Number is Prime or Not
+
+26 C Program to Display Prime Numbers Between Two Intervals
+
+27 C Program to Check Armstrong Number
+
+28 C Program to Display Armstrong Number Between Two Intervals
+
+29 C Program to Display Factors of a Number
+
+30  C Program to Make a Simple Calculator Using switch...case
+
+31 C Program to Display Prime Numbers Between Intervals Using Function
+
+32 C Program to Find the Sum of Natural Numbers using Recursion
+
+33 C Program to Find Factorial of a Number Using Recursion
+
+34 C Program to Convert Binary Number to Decimal and vice-versa
+
+35 C Program to Reverse a Sentence Using Recursion
+
+36 C program to calculate the power using recursion
+
+37 C Program to Calculate Average Using Arrays
+
+38 C Program to Find Largest Element in an Array
+
+39 C Program to Add Two Matrices Using Multi-dimensional Arrays
+
+40 C Program to Multiply Two Matrices Using Multi-dimensional Arrays
+
+41 C Program to Access Array Elements Using Pointer
+
+42 C Program to Find Largest Number Using Dynamic Memory Allocation
+
+43 C Program to Find the Frequency of Characters in a String
+
+44 C Program to Count the Number of Vowels, Consonants and so on
+
+45 C Program to Remove all Characters in a String Except Alphabets
+
+46 C Program to Find the Length of a String
+
+47 C Program to Concatenate Two Strings
+
+48 C Program to Copy String Without Using strcpy()
+
+49 C Program to Store Information of a Student Using Structure
+
+50 C Program to Add Two Distances (in inch-feet system) using Structures
+
+51 C Program to Write a Sentence to a File
+
+52 C Program to Read the First Line From a File
+
+53  switch choice
+
+
+
+*
+
+* *
+
+* * *
+
+* * * *
+
+* * * * *
+
+
+1
+
+1 2
+
+1 2 3
+
+1 2 3 4
+
+1 2 3 4 5
+
+A
+
+B B
+
+C C C
+
+D D D D
+
+E E E E E
+
+* * * * *
+
+* * * *
+
+* * * 
+
+* *
+
+*
+
+1 2 3 4 5
+
+1 2 3 4 
+
+1 2 3
+
+1 2
+
+1
+
+       *
+
+      * * *
+
+    * * * * *
+
+  * * * * * * *
+
+* * * * * * * * *
+
+        1
+
+      2 3 2
+
+    3 4 5 4 3
+
+  4 5 6 7 6 5 4
+
+5 6 7 8 9 8 7 6 5
+
+
+* * * * * * * * *
+
+  * * * * * * *
+
+    * * * * *
+
+      * * *
+
+        *
+
+           1
+
+         1   1
+
+       1   2   1
+
+     1   3   3    1
+
+   1  4    6   4   1
+
+ 1  5   10   10  5   1
+
+
+1
+
+2 3
+
+4 5 6
+
+7 8 9 10
+
